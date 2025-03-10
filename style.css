@@ -441,6 +441,9 @@ footer p {
         grid-template-columns: repeat(1, 1fr);
         gap: 4rem;
     }
+    .section-main .container .main-img{
+        grid-row:1;
+    }
 
     .section-main .container .main-img {
         width: 30rem;
